@@ -1,0 +1,2 @@
+# sosiometri-app
+sosiometri MSBC
